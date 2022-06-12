@@ -1,6 +1,6 @@
 project:
   type: website
-  dir-output: docs
+  output-dir: docs
 
 website:
   title: "Tishka"
